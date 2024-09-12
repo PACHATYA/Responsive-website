@@ -1,4 +1,8 @@
 body{
+    background-image: url(Assets/pexels-marek-piwnicki-3907296-6989485.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
     margin:0;
     padding:0;
     background-color: #1b1b1b;
